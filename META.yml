@@ -16,9 +16,10 @@ meta-spec:
   version: '1.4'
 name: Object-Anon
 requires:
+  Carp: '0'
   Exporter: '0'
   overload: '0'
 resources:
   bugtracker: https://github.com/robn/Object-Anon/issues
   repository: git://github.com/robn/Object-Anon.git
-version: '0.001'
+version: '0.002'

@@ -21,6 +21,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Carp" : "0",
             "Exporter" : "0",
             "overload" : "0"
          }
@@ -44,6 +45,6 @@
          "web" : "http://github.com/robn/Object-Anon"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
